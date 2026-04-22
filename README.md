@@ -13,8 +13,8 @@ To perform regular differncing,seasonal adjustment and log transformatio on Gold
 ## PROGRAM:
 ### Importing the necessary Packages:
 ```
-PRAGATHEESVARAN A B
-212221240039
+AISHWARIYA S
+212224240005
 ```
 ```
 import pandas as pd
@@ -78,9 +78,15 @@ plt.show()
 
 ## OUTPUT:
 ### rading Volume Over Time:
+
+<img width="892" height="295" alt="image" src="https://github.com/user-attachments/assets/853ccea0-5f7d-4dd2-9bb3-ae64912d7ad9" />
+
 ### Twenty Moving Average vs. Fifty Moving Average
+<img width="873" height="252" alt="image" src="https://github.com/user-attachments/assets/6ac0cb19-2d9e-4838-a890-76dc6b02daed" />
+
 ### Gold Price Today
-![image](https://github.com/user-attachments/assets/ad565961-68df-4adc-b867-874e6b7166a0)
+<img width="869" height="275" alt="image" src="https://github.com/user-attachments/assets/838594ad-122b-4c4f-af0b-3f6851e55131" />
+
 
 
 
